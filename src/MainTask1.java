@@ -1,4 +1,4 @@
-public class Main {
+public class MainTask1 {
     public static void main(String[] args) {
 
         Cat cat1 = new Cat();
